@@ -133,9 +133,11 @@ Database:
 
 <img src="/assets/img/logic.jpg"/>
 
+{{% /section %}}
+
 ---
 
-{{% /section %}}
+{{% section %}}
 
 ## Browsers
 
@@ -161,8 +163,37 @@ A browser is a software application used to access and view websites on the inte
     -   HTML
     -   JS
     -   CSS
--   Difficult to build complex pages
+-   Users using a web application must open their browser
 -   Semi-standardised
+
+{{% / section %}}
+
+---
+
+{{% section %}}
+
+### PWA
+
+[Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+
+---
+
+A type of web app that can be installed on a device as a standalone application.
+
+-   Utilises functionality provided by browsers
+-   Supported by some browsers (e.g. Chrome, Edge)
+
+---
+
+### manifest
+
+A file provided by an existing webapp that tells the browser how it should be set up.
+
+-   Note: school laptops may restrict the installation of PWAs
+
+[link](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+
+{{% / section %}}
 
 ---
 
