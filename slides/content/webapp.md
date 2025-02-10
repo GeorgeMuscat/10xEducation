@@ -21,7 +21,7 @@ outputs: ['Reveal']
 
 ---
 
-{{% section class="left" %}}
+{{% section %}}
 
 ## What is a web application?
 
@@ -44,7 +44,7 @@ Examples:
 
 ---
 
-{{% section class="left" %}}
+{{% section %}}
 
 ### How do webapps work?
 
@@ -103,7 +103,7 @@ A computer that "serves" resources to clients.
 
 ---
 
-{{% section  class="left" %}}
+{{% section  %}}
 
 # Example
 
@@ -137,7 +137,7 @@ Database:
 
 ---
 
-{{% section class="left" %}}
+{{% section %}}
 
 ## Browsers
 
@@ -170,7 +170,7 @@ An application used to access and view websites on the internet.
 
 ---
 
-{{% section  class="left" %}}
+{{% section  %}}
 
 ### PWA
 
