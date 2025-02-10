@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TEMPLATE</title><link>/</link><description>Recent content on TEMPLATE</description><generator>Hugo</generator><language>en-au</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>webapps</title><link>/webapp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/webapp/</guid><description>&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="10xeducation">10xEducation&lt;/h1>
+&lt;h3 id="web-applications--pwas">Web Applications (+ PWAs)&lt;/h3>
+&lt;hr>
+&lt;h2 id="-whoami">&amp;gt; whoami&lt;/h2>
+&lt;ul>
+&lt;li>George Muscat&lt;/li>
+&lt;li>B.Sc Computer Science (Security Engineering)&lt;/li>
+&lt;li>Software/Security Engineer&lt;/li>
+&lt;li>Email: &lt;a href="">mailto:enquiries@10xeducation.com.au&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="what-is-a-web-application">What is a web application?&lt;/h2>
+&lt;hr>
+&lt;p>web: Derived from the World Wide &lt;strong>Web&lt;/strong> (www).
+application: Software intended for an end-user to use.&lt;/p>
+&lt;p>Software designed to run in a web browser for an end-user.&lt;/p>
+&lt;hr>
+&lt;p>Examples:&lt;/p>
+&lt;ul>
+&lt;li>Youtube&lt;/li>
+&lt;li>Github&lt;/li>
+&lt;li>Instagram&lt;/li>
+&lt;/ul>
+
+&lt;/section>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h3 id="how-do-webapps-work">How do webapps work?&lt;/h3>
+&lt;ul>
+&lt;li>Frontend&lt;/li>
+&lt;li>Backend&lt;/li>
+&lt;li>Database&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="frontend">Frontend&lt;/h3>
+&lt;p>The GUI that the end-user interacts with.&lt;/p></description></item></channel></rss>
