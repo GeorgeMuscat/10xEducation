@@ -65,7 +65,7 @@ The GUI that the end-user interacts with.
 
 ### Backend
 
-The part of a web application that handles business logic, database interactions, and server-side operations.
+Handles the business logic, database interactions, and server-side operations.
 
 -   API
 -   Authentication (checking you have an account)
@@ -114,12 +114,12 @@ A computer that "serves" resources to clients.
 Frontend:
 
 -   HTML, JS, CSS
--   Served using a Python Flask server
+-   Python Flask server
 
 Backend:
 
--   Python Flask
--   REST API
+-   Python Flask server
+-   HTTP REST API
 
 Database:
 
@@ -141,7 +141,7 @@ Database:
 
 ## Browsers
 
-A browser is a software application used to access and view websites on the internet.
+An application used to access and view websites on the internet.
 
 -   Sandboxed
 -   GUI
