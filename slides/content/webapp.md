@@ -6,7 +6,7 @@ outputs: ['Reveal']
 
 {{< slide class="center" >}}
 
-# 10xEducation
+# 10x Education
 
 ### Web Applications (+ PWAs)
 
@@ -21,7 +21,7 @@ outputs: ['Reveal']
 
 ---
 
-{{% section %}}
+{{% section class="left" %}}
 
 ## What is a web application?
 
@@ -44,7 +44,7 @@ Examples:
 
 ---
 
-{{% section %}}
+{{% section class="left" %}}
 
 ### How do webapps work?
 
@@ -103,7 +103,7 @@ A computer that "serves" resources to clients.
 
 ---
 
-{{% section %}}
+{{% section  class="left" %}}
 
 # Example
 
@@ -137,7 +137,7 @@ Database:
 
 ---
 
-{{% section %}}
+{{% section class="left" %}}
 
 ## Browsers
 
@@ -170,7 +170,7 @@ A browser is a software application used to access and view websites on the inte
 
 ---
 
-{{% section %}}
+{{% section  class="left" %}}
 
 ### PWA
 
