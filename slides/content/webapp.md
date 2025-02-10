@@ -16,7 +16,8 @@ outputs: ['Reveal']
 
 -   George Muscat
 -   B.Sc Computer Science (Security Engineering)
--   Software/Security Engineer
+-   Security Engineer
+-   University of NSW Tutor/Academic
 -   Email: [mailto:enquiries@10xeducation.com.au]()
 
 ---
@@ -27,8 +28,8 @@ outputs: ['Reveal']
 
 ---
 
-web: Derived from the World Wide **Web** (www).
-application: Software intended for an end-user to use.
+**web**: Derived from the World Wide **Web** (www).
+**application**: Software intended for an end-user to use.
 
 Software designed to run in a web browser for an end-user.
 
