@@ -1,12 +1,12 @@
-title: ./muscat.sh
-name: George Muscat
-email: george@muscat.sh
+title: 10xEducation
+name: 10xEducation
+email: enquiries@10xeducation.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-    Everything systems & security.
-baseurl: '' # the subpath of your site, e.g. /blog
+    HSC Software Engineering & Enterprise Computing Tutoring
+baseurl: '/10xEducation' # the subpath of your site, e.g. /blog
 url: 'https://muscat.sh/' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username: GeorgeMuscat
+github_username:
 
 theme: minima
 show_downloads: false
@@ -18,9 +18,3 @@ markup:
             unsafe: true
 minima:
     skin: dark
-    social_links:
-        github: GeorgeMuscat
-        linkedin: george-muscat
-
-header_pages:
-    - home.md

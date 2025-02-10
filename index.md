@@ -7,13 +7,6 @@ title: 10xEducation
 
 &nbsp;
 
-## resources
-
--   [tools](resources/tools)
--   [checklist](resources/list)
-
-&nbsp;
-
 ## Contact
 
 -   Email me @ [enquiries@10xeducation.com.au](MAILTO:enquiries@10xeducation.com.au)
