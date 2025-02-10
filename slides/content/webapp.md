@@ -17,8 +17,8 @@ outputs: ['Reveal']
 -   George Muscat
 -   B.Sc Computer Science (Security Engineering)
 -   Security Engineer
--   University of NSW Tutor/Academic
--   Email: [mailto:enquiries@10xeducation.com.au]()
+-   University of NSW Tutor
+-   Email: [enquiries@10xeducation.com.au](mailto:enquiries@10xeducation.com.au)
 
 ---
 
@@ -200,4 +200,4 @@ A file provided by an existing webapp that tells the browser how it should be se
 
 # Thanks
 
-Email: [mailto:enquiries@10xeducation.com.au]()
+Email: [enquiries@10xeducation.com.au](mailto:enquiries@10xeducation.com.au)
